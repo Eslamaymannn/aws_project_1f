@@ -1,4 +1,4 @@
-# utomated Web Infrastructure & Backup System
+# automated Web Infrastructure & Backup System
 Project Overview
 This project demonstrates a practical integration between AWS Cloud Infrastructure, Linux System Administration, and Bash Scripting. It features a live Web Server hosted on AWS EC2, managed via Linux, with a fully automated backup system that archives web content and uploads it to an AWS S3 bucket for disaster recovery.
 
